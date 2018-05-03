@@ -1,0 +1,21 @@
+intro:
+    motivacion
+    resumen
+    hipotesis de trabajo
+
+metodologias: (pasado simple)
+    Scapy
+    S1
+    S2 -> is_at src
+          is_at dst
+          who_has src
+          who_has dst
+          posibles fuentes de informacion S2
+    condiciones experimentos(duracion, tecnologia)
+
+resultados:
+    figuras (orden eje x, para S2 ordenar por informacion)
+    grafo interaccion ARP
+
+conclusiones:
+    
