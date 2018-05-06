@@ -62,7 +62,7 @@ if __name__ == "__main__":
     freq = obtenerFrecuencias(paquetes[ARP])
     imprimirTabla(freq)
     print('Analizo tercer sniff:Ethernet Casa 2')
-    paquetes = rdpcap('../datos/sniff_ethernet.cap')
+    paquetes = rdpcap('../datos/sniff_casa_franco.cap')
     freq = obtenerFrecuencias(paquetes[ARP])
     imprimirTabla(freq)
     
